@@ -1,4 +1,6 @@
 # Virtual Courtroom Simulation
+![image](https://github.com/user-attachments/assets/2834bee2-18f7-42bd-9aa9-df6bab9b2190)
+
 
 Welcome to the **Virtual Courtroom Simulation**, an interactive icebreaker designed to introduce users—especially kids and non-technical audiences—to the power of Shoora AI in a fun, game-like environment. Players assume the role of **Prosecutor** or **Defence**, select a case scenario, choose a difficulty level, and argue their position through multiple-choice questions under a time limit.
 
