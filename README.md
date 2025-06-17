@@ -10,6 +10,10 @@ Welcome to the **Virtual Courtroom Simulation**, an interactive icebreaker desig
 - **Timed Debates:** Engage in MCQ-style challenges with a ticking clock for immersive learning.
 - **Results & Feedback:** Earn badges and see performance insights at the end of each trial.
 
+## 🔗 Related Project
+
+This icebreaker demo complements the full [Shoora AI-Powered Digital Library](https://github.com/j-shafeeqa/Shoora-AI-Powered-Digital-Library) hackathon-winning project, showcasing foundational interactions before diving into the main experience.
+
 ## 📦 Tech Stack
 
 - **Framework:** Next.js 14 + TypeScript
