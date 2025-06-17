@@ -6,7 +6,6 @@ Welcome to the **Virtual Courtroom Simulation**, an interactive icebreaker desig
 
 - **Role Selection:** Choose between **Prosecutor** or **Defence** to tailor your experience.
 - **Case Scenarios:** Pick from multiple real-world-inspired legal cases.
-- **Difficulty Levels:** Easy, Medium, or Hard modes adjust time limits and question complexity.
 - **Timed Debates:** Engage in MCQ-style challenges with a ticking clock for immersive learning.
 - **Results & Feedback:** Earn badges and see performance insights at the end of each trial.
 
